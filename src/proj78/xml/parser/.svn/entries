@@ -1,0 +1,88 @@
+8
+
+dir
+2
+https://hjbos.eu:8443/svn/hro/java.proj7-8/src/proj78/xml/parser
+https://hjbos.eu:8443/svn/hro
+
+
+
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+XmlParserImpl.java
+file
+
+
+
+
+2008-07-25T09:00:27.643757Z
+89d02f095c3c24ebea34f1777515070d
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlParseEventListener.java
+file
+
+
+
+
+2008-07-05T13:40:01.034558Z
+f6d07739b99fa1bcd76246e574e1f825
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlParserFactory.java
+file
+
+
+
+
+2008-07-07T08:52:51.346555Z
+885cab2388f1b0797b422c701a344fd2
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlDocumentBuilder.java
+file
+
+
+
+
+2008-07-28T07:38:20.293156Z
+ea500ba3ba0e86c81232b5d0fdfe88bc
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlParseException.java
+file
+
+
+
+
+2008-06-23T13:50:50.437565Z
+a7a2018c858ced25cd4bb2b31be08a2a
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlParser.java
+file
+
+
+
+
+2008-07-07T08:45:52.718555Z
+557c07c23c42ac719aa1a017f7d87754
+2008-08-18T10:04:33.570125Z
+2
+jim
+

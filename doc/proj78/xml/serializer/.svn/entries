@@ -1,0 +1,103 @@
+8
+
+dir
+2
+https://hjbos.eu:8443/svn/hro/java.proj7-8/doc/proj78/xml/serializer
+https://hjbos.eu:8443/svn/hro
+
+
+
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+class-use
+dir
+
+XmlSerializerFactory.html
+file
+
+
+
+
+2008-08-18T10:03:22.071790Z
+e42107a7b4366ead7db95a9892199cf8
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-frame.html
+file
+
+
+
+
+2008-08-18T10:03:24.110790Z
+4e04d8c34b0377e32bb2d5b5f1aa195c
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-use.html
+file
+
+
+
+
+2008-08-18T10:03:24.441790Z
+7db46890674b97beaf86d26e16bd2975
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlFormattingSerializer.html
+file
+
+
+
+
+2008-08-18T10:03:22.040790Z
+ee3b669043187246ae5e5b0f64818a2a
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-summary.html
+file
+
+
+
+
+2008-08-18T10:03:24.114790Z
+07e1d3ab817bc18c6d8670539579f9e0
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-tree.html
+file
+
+
+
+
+2008-08-18T10:03:24.119790Z
+71918855aa7dca31096abc46ee3096cd
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlSerializer.html
+file
+
+
+
+
+2008-08-18T10:03:22.061790Z
+bbc15c9caf9eb58ee9db7d70761f2df3
+2008-08-18T10:04:33.570125Z
+2
+jim
+

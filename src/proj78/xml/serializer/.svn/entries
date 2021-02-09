@@ -1,0 +1,52 @@
+8
+
+dir
+2
+https://hjbos.eu:8443/svn/hro/java.proj7-8/src/proj78/xml/serializer
+https://hjbos.eu:8443/svn/hro
+
+
+
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+XmlSerializerFactory.java
+file
+
+
+
+
+2008-06-23T13:50:50.702765Z
+b80a50d45ef12e045b76b66e20271e57
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlFormattingSerializer.java
+file
+
+
+
+
+2008-06-26T14:17:22.609767Z
+e9f1ba67a549198b5a6f192669bdfafd
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlSerializer.java
+file
+
+
+
+
+2008-07-25T08:58:42.585957Z
+339d79f024caf77a7977e487502f859a
+2008-08-18T10:04:33.570125Z
+2
+jim
+

@@ -1,0 +1,79 @@
+8
+
+dir
+2
+https://hjbos.eu:8443/svn/hro/java.proj7-8/doc/proj78/xml/serializer2
+https://hjbos.eu:8443/svn/hro
+
+
+
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+class-use
+dir
+
+package-frame.html
+file
+
+
+
+
+2008-08-18T10:03:24.122790Z
+730e3fd9bd3801b8e85c2835f51c9e85
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-use.html
+file
+
+
+
+
+2008-08-18T10:03:24.444790Z
+e9b6c03ec939827d8c1b3d64799afd29
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-summary.html
+file
+
+
+
+
+2008-08-18T10:03:24.126790Z
+75ec7ad09257bf4d798d316520bf0c97
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-tree.html
+file
+
+
+
+
+2008-08-18T10:03:24.130790Z
+c1f04c64a776bce8f0665abf025d6ed9
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+XmlSerializer.html
+file
+
+
+
+
+2008-08-18T10:03:24.036790Z
+d4bc505902933d5d521ab26337acb45c
+2008-08-18T10:04:33.570125Z
+2
+jim
+

@@ -1,0 +1,169 @@
+8
+
+dir
+2
+https://hjbos.eu:8443/svn/hro/java.proj7-8/doc
+https://hjbos.eu:8443/svn/hro
+
+
+
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+
+svn:special svn:externals svn:needs-lock
+
+stylesheet.css
+file
+
+
+
+
+2008-08-18T10:03:24.646790Z
+5012a122d1b6a2442fa81923bdc4f33d
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+allclasses-frame.html
+file
+
+
+
+
+2008-08-18T10:03:24.620790Z
+9dcc3f19d6c28d7d2a6ade2ddc33bc78
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+proj78
+dir
+
+constant-values.html
+file
+
+
+
+
+2008-08-18T10:03:24.166790Z
+0a145ab49e403a8535b13de8f12934f8
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+help-doc.html
+file
+
+
+
+
+2008-08-18T10:03:24.644790Z
+c7379016d939f52cd57cf06a760f19c7
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+serialized-form.html
+file
+
+
+
+
+2008-08-18T10:03:24.181790Z
+4e9f72167886b968d10e9aa740b712c5
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+overview-frame.html
+file
+
+
+
+
+2008-08-18T10:03:24.044790Z
+3655afcd726db136fbfa51421f32d585
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+overview-summary.html
+file
+
+
+
+
+2008-08-18T10:03:24.633790Z
+70310b2133cfe999c22269981f4adc62
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+package-list
+file
+
+
+
+
+2008-08-18T10:03:24.040790Z
+dbdbb5b8e1bb7faebc7a9b76c29aa2af
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+overview-tree.html
+file
+
+
+
+
+2008-08-18T10:03:24.459790Z
+f5e0b2e857bcb816401c363fbbe1523e
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+index-files
+dir
+
+resources
+dir
+
+index.html
+file
+
+
+
+
+2008-08-18T10:03:24.627790Z
+560fbbd3f4311e6bd57523f76b79da6a
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+deprecated-list.html
+file
+
+
+
+
+2008-08-18T10:03:24.615790Z
+4c3cdc0d56fc2e5265be4e159d5c5bd4
+2008-08-18T10:04:33.570125Z
+2
+jim
+
+allclasses-noframe.html
+file
+
+
+
+
+2008-08-18T10:03:24.623790Z
+1bb6bca7d7928badf42ea70a5dadeb8f
+2008-08-18T10:04:33.570125Z
+2
+jim
+

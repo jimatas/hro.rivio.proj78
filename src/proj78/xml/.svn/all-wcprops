@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml
+END
+XmlDomImplementationRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDomImplementationRegistry.java
+END
+XmlDocument.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDocument.java
+END
+XmlProcessingInstruction.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlProcessingInstruction.java
+END
+XmlDocumentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDocumentType.java
+END
+XmlNodeList.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlNodeList.java
+END
+XmlText.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlText.java
+END
+XmlDomImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDomImplementation.java
+END
+XmlDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDeclaration.java
+END
+XmlNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlNode.java
+END
+XmlCharacterData.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlCharacterData.java
+END
+XmlNamedNodeMap.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlNamedNodeMap.java
+END
+XmlElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlElement.java
+END
+XmlNotation.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlNotation.java
+END
+XmlException.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlException.java
+END
+XmlParentNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlParentNode.java
+END
+XmlCDataSection.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlCDataSection.java
+END
+XmlDocumentFragment.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlDocumentFragment.java
+END
+XmlComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlComment.java
+END
+XmlAttribute.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlAttribute.java
+END
+XmlUtility.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlUtility.java
+END
+XmlEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlEntity.java
+END
+XmlLeafNode.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/hro/!svn/ver/2/java.proj7-8/src/proj78/xml/XmlLeafNode.java
+END

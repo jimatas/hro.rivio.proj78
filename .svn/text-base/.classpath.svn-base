@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="proj78/xmlio/|proj78/xmlns/|proj78/usecase/|proj78/usecase/gui/|proj78/usecase/gui/controls/|proj78/usecase/model/|proj78/usecase/model2/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
